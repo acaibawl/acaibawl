@@ -47,7 +47,7 @@
 ### 💻  **Languages & Frameworks**
 <img src="https://skillicons.dev/icons?i=php,laravel,vue,vuetify,nuxt,js,ts,html,css" />
 
-### 🗄️  **Database & middleware**
+### 🗄️  **Database & Middleware**
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,docker" />
 
 </td>
